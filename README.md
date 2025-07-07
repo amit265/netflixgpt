@@ -59,4 +59,3 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 ## Contact
 
 For any questions or suggestions, please reach out at [amitk.kumar414@gmail.com](mailto:amitk.kumar414@gmail.com).
-# netflixgpt
