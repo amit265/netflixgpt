@@ -24,7 +24,7 @@ Welcome to the Netflix GPT project! This application provides a seamless movie s
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/amit265/React-Projects.git
+   git clone https://github.com/amit265/netflixgpt.git
    ```
 2. Navigate to the project directory:
    ```bash
